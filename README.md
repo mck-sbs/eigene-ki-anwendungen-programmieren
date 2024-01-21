@@ -10,3 +10,9 @@ Video-Anleitung zur Installation von ANACONDA auf mac: [ANACONDA-MAC](https://yo
 
 
 Video-Anleitung zur Installation von KNIME auf mac: [KNIME-MAC](https://youtu.be/FI2Lu7SCBRQ?si=r0w9RTXH1OEimtHP)
+
+------------------------------------------
+
+"Eigene KI-Anwendungen programmieren", [Rheinwerk Verlag](https://www.rheinwerk-verlag.de/eigene-ki-anwendungen-programmieren)
+
+![Cover](https://s3-eu-west-1.amazonaws.com/cover2.galileo-press.de/print/9783836297639_800.png)

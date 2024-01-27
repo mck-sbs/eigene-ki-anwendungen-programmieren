@@ -11,8 +11,12 @@ Video-Anleitung zur Installation von ANACONDA auf mac: [ANACONDA-MAC](https://yo
 
 Video-Anleitung zur Installation von KNIME auf mac: [KNIME-MAC](https://youtu.be/FI2Lu7SCBRQ?si=r0w9RTXH1OEimtHP)
 
+Video-Anleitung, um Jupyter ggf. in einem neuen Environment zu intsallieren und zu starten: [JUPYTER](https://youtu.be/c7Dp09SQl8E)
+
+
 ------------------------------------------
 
 "Eigene KI-Anwendungen programmieren", [Rheinwerk Verlag](https://www.rheinwerk-verlag.de/eigene-ki-anwendungen-programmieren)
 
 ![Cover](https://s3-eu-west-1.amazonaws.com/cover2.galileo-press.de/print/9783836297639_800.png)
+

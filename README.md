@@ -20,7 +20,7 @@ Liebe Leserin, lieber Leser,
 
 es erreichen mich wertvolle Hinweise von der Leserschaft – vielen Dank dafür. An dieser Stelle möchte ich darauf eingehen:
 
-- erster Eintrag folgt heute Abend (22.2.2024)...
+- Das Zeichen '\\' leitet in einem String eine Escape-Sequenz ein. Mit '\n' wird z.B. eine neue Zeile eingefügt, also `print("Hallo\nWelt!")`. Wenn das Zeichen als "normales" Zeichen interpretiert werden soll, können Sie einfach ein 'r' vor dem String (r für row) einfügen. Beispiel: `path = "C:\Users\mk\Downloads\iris.csv"` führt zu einem Fehler, den Sie einfach mit `path = r"C:\Users\mk\Downloads\iris.csv"` korrigieren können.
 
 
 

@@ -13,7 +13,7 @@ Video-Anleitung zur Installation von KNIME auf mac: [KNIME-MAC](https://youtu.be
 
 Video-Anleitung, um Jupyter ggf. in einem neuen Environment zu intsallieren und zu starten: [JUPYTER](https://youtu.be/c7Dp09SQl8E)
 
-# Nutzen Sie bitte für Python-3.12-x den Code im Ordner "neu"
+# Nutzen Sie bitte für Python-3.12-x den Code im Ordner "2. Auflage"
 ------------------------------------------
 
 "Eigene KI-Anwendungen programmieren", [Rheinwerk Verlag](https://www.rheinwerk-verlag.de/eigene-ki-anwendungen-programmieren)
